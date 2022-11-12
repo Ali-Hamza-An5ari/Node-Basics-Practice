@@ -1,0 +1,14 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "An starting Node project",
+  "main": "website.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Hamza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
