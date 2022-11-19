@@ -8,4 +8,4 @@ console.log(os.platform())
 console.log(os.release())
 console.log(os.uptime())
 
-console.log("first", protagonist)
+console.log("first", protagonist);
